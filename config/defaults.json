@@ -1,0 +1,5 @@
+{
+  "environment": "dev",
+  "port": 3002,
+  "delay": 10000
+}
